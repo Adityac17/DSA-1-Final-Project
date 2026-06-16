@@ -80,5 +80,7 @@ Analytics Dashboard (Aggregated system insights)
 Exit
 
 ## 👨‍💻 Author
-Aditya Sunil Chouksey B.Tech Computer Science, School of Future Tech | ITM Skills University ---
+Aditya Sunil Chouksey 
+B.Tech CSE
+ITM Skills University
 Developed as part of the Semester II C++ / Data Structures & Algorithms curriculum.
